@@ -1,2 +1,2 @@
-# Ir47.github.io
+# ir47.github.io
 Personal Website
